@@ -1,5 +1,8 @@
 # Restaurant Order Analysis | PostgreSQL
 
+For detailed findings, data visualisations and a discussion of the results, see my LinkedIn project breakdown.
+https://lnkd.in/p/dNWdusNV
+
 ## Dataset from Maven Analytics
 https://mavenanalytics.io/data-playground/restaurant-orders
 
